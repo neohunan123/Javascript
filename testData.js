@@ -1,4 +1,3 @@
-
 var arraysSimilar = require('./arraySimilar.js');
 var result=function(){
     //以下为多组测试数据
